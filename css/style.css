@@ -1,0 +1,14 @@
+.my1{
+   background-color:rgb(144, 144, 212);
+   text-align: center;
+}
+
+.my{
+    background-color: blue;
+    float: left;
+    width: 33%;
+}
+
+.clear{
+    clear: left;
+}
